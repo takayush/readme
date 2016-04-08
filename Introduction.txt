@@ -1,0 +1,6 @@
+This file contains steps for cloning and setting the ssh
+1. Create a repository in git hub
+2. git clone URL of repository
+3. git add .
+4. git commit - "Message"
+5. git push -u origin master
